@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: 'Noto Sans JP', 'Helvetica Neue', sans-serif;
@@ -63,6 +64,7 @@ canvas {
   position: fixed;
   display: block;
   width: 100vw;
+  background-color: #000000;
 }
 
 .hero {
